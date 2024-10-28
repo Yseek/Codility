@@ -68,4 +68,4 @@ Write an efficient algorithm for the following assumptions:
 알고리즘 문제를 처음 접했을 때는 어떻게 풀어야할지 감도 안 왔는데, 조금씩 나아지는 것 같다.
 
 
-![images](../../../images/img.png)
+![images](../../../../images/img.png)
