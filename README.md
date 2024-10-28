@@ -1,5 +1,12 @@
 # Codility
 
-Codility 연습문제 풀이 및 기록용.
 
-Java 8
+### LESSON 1 - (Iterations)
+- [_**BinaryGap**_](src/lessons/lesson1/iterations/BinaryGap.md)
+
+### LESSON 2 - (Arrays)
+- [_**CyclicRotation**_](src/lessons/lesson2/arrays/CyclicRotation.md)
+- [**_OddOccurrencesInArray_**](src/lessons/lesson2/arrays/OddOccurrencesInArray.md)
+
+### LESSON 3 - (Time Complexity)
+- [_**FrogJmp**_](src/lessons/lesson3/timeComplexity/FrogJmp.md)
