@@ -64,8 +64,6 @@ In your solution, focus on correctness. The performance of your solution will no
     
 ```
 
-시간 복잡도를 고려하지 않은 문제라 100%로 통과할 수 있었으나, 풀이 당시 깊게 고민하지 않은 흔적이 보인다.
-
 ## 2.   시간 복잡도 O(N)
 
 ```java
@@ -103,4 +101,21 @@ In your solution, focus on correctness. The performance of your solution will no
     
 ```
 
-메모리를 효율적으로 직접 복사하기 때문에 수작업으로 복사하는 것보다 속도가 빠르다.
+# 정리
+
+_**시간 복잡도 O(K * N)**_ 풀이는 시간 복잡도를 고려하지 않은 문제라 100%로 통과할 수 있었으나,  
+풀이 당시 깊게 고민하지 않은 흔적이 보인다.
+
+반면, _**시간 복잡도 O(N)**_ 풀이는 메모리를 효율적으로 직접 복사하기 때문에 수작업으로 복사하는 것보다 속도가 빠르다.
+
+
+    System.arraycopy(source, sourceStart, destination, destinationStart, length);
+
+- source: 복사할 원본 배열
+- sourceStart: 원본 배열에서 복사를 시작할 인덱스
+- destination: 복사할 대상 배열
+- destinationStart: 대상 배열에서 복사를 시작할 인덱스
+- length: 복사할 요소의 수
+
+처음 보는 메소드라 매우 당황했다. '이런 게 있으면 좋겠다...' 라고 생각했던 방법이었는데,  
+아직 가야 할 길이 너무 멀다.

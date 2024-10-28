@@ -44,7 +44,8 @@ Write an **efficient** algorithm for the following assumptions:
     }
 
 ```
----
+
+# 정리
 
 기본이 부족하다는 걸 다시금 느끼게 한 문제였다.
 

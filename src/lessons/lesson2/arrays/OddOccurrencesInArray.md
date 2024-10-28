@@ -62,7 +62,7 @@ Write an efficient algorithm for the following assumptions:
     }
 
 ```
----
+# 정리
 
 난이도가 쉬운 편이지만, 검색의 도움없이 처음으로 100% score 로 통과한 예제이다.  
 알고리즘 문제를 처음 접했을 때는 어떻게 풀어야할지 감도 안 왔는데, 조금씩 나아지는 것 같다.
