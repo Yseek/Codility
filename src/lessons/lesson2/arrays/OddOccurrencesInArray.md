@@ -44,7 +44,7 @@ Write an efficient algorithm for the following assumptions:
         
         HashMap<Integer, Integer> map = new HashMap<>();
     
-    2.  map.getOrDefault(A[i], 0)+1 을 통해 값을 꺼내서 +1을 한다. 없었던 값이면 Default 로 0 을 가져온 뒷 1을 더한다. 
+    2.  map.getOrDefault(A[i], 0)+1 을 통해 값을 꺼내서 +1을 한다. 없었던 값이면 Default 로 0 을 가져온 뒤 1을 더한다. 
     
         for (int i = 0; i < A.length; i++) {
             map.put(A[i], map.getOrDefault(A[i], 0)+1);
