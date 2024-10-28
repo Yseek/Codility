@@ -39,7 +39,7 @@ In your solution, focus on correctness. The performance of your solution will no
 
 # 풀이
 
-##1.    시간 복잡도 O(K * N)
+## 1.    시간 복잡도 O(K * N)
 
 ```java
 
