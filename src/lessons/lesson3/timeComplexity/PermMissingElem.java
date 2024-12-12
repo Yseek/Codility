@@ -7,7 +7,9 @@ public class PermMissingElem {
     public int solution(int[] A) {
         int result = 0;
 
-        long expectedSum  = (long)(1 + A.length) * (2 + A.length) / 2;
+        int N = A.length + 1;
+
+        long expectedSum = (long) N * (N + 1) / 2;
 
         long sum = Arrays.stream(A).sum();
 

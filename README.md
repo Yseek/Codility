@@ -10,3 +10,4 @@
 
 ### LESSON 3 - (Time Complexity)
 - [_**FrogJmp**_](src/lessons/lesson3/timeComplexity/FrogJmp.md)
+- [_**PermMissingElem**_](src/lessons/lesson3/timeComplexity/PermMissingElem.md)
