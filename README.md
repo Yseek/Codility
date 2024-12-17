@@ -12,3 +12,7 @@
 - [_**FrogJmp**_](src/lessons/lesson3/timeComplexity/FrogJmp.md)
 - [_**PermMissingElem**_](src/lessons/lesson3/timeComplexity/PermMissingElem.md)
 - [_**TapeEquilibrium**_](src/lessons/lesson3/timeComplexity/TapeEquilibrium.md)
+
+### LESSON 4 - (Counting Elements)
+- [_**FrogRiverOne**_](src/lessons/lesson4/countingElements/FrogRiverOne.md)
+- [_**PermCheck**_](src/lessons/lesson4/countingElements/PermCheck.md)
