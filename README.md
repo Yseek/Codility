@@ -21,3 +21,4 @@
 
 ### LESSON 5 - (Prefix Sums)
 - [_**PassingCars**_](src/lessons/lesson5/prefixSums/PassingCars.md)
+- [_**CountDiv**_](src/lessons/lesson5/prefixSums/CountDiv.md)
