@@ -18,3 +18,6 @@
 - [_**PermCheck**_](src/lessons/lesson4/countingElements/PermCheck.md)
 - [_**MaxCounters**_](src/lessons/lesson4/countingElements/MaxCounters.md)
 - [_**MissingInteger**_](src/lessons/lesson4/countingElements/MissingInteger.md)
+
+### LESSON 5 - (Prefix Sums)
+- [_**PassingCars**_](src/lessons/lesson5/prefixSums/PassingCars.md)
