@@ -17,3 +17,4 @@
 - [_**FrogRiverOne**_](src/lessons/lesson4/countingElements/FrogRiverOne.md)
 - [_**PermCheck**_](src/lessons/lesson4/countingElements/PermCheck.md)
 - [_**MaxCounters**_](src/lessons/lesson4/countingElements/MaxCounters.md)
+- [_**MissingInteger**_](src/lessons/lesson4/countingElements/MissingInteger.md)
