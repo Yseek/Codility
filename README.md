@@ -24,3 +24,6 @@
 - [_**CountDiv**_](src/lessons/lesson5/prefixSums/CountDiv.md)
 - [_**GenomicRangeQuery**_](src/lessons/lesson5/prefixSums/GenomicRangeQuery.md)
 - [_**MinAvgTwoSlice**_](src/lessons/lesson5/prefixSums/MinAvgTwoSlice.md)
+
+### LESSON 6 - (Sorting)
+- [_**Distinct**_](src/lessons/lesson6/sorting/Distinct.md)
