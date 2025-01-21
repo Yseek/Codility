@@ -27,3 +27,4 @@
 
 ### LESSON 6 - (Sorting)
 - [_**Distinct**_](src/lessons/lesson6/sorting/Distinct.md)
+- [_**MaxProductOfThree**_](src/lessons/lesson6/sorting/MaxProductOfThree.md)
