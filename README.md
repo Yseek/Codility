@@ -30,3 +30,6 @@
 - [_**MaxProductOfThree**_](src/lessons/lesson6/sorting/MaxProductOfThree.md)
 - [_**Triangle**_](src/lessons/lesson6/sorting/Triangle.md)
 - [_**NumberOfDiscIntersections**_](src/lessons/lesson6/sorting/NumberOfDiscIntersections.md)
+
+### LESSON 7 - (Stacks and Queues)
+- [_**Brackets**_](src/lessons/lesson7/stacksAndQueues/Brackets.md)
