@@ -33,3 +33,4 @@
 
 ### LESSON 7 - (Stacks and Queues)
 - [_**Brackets**_](src/lessons/lesson7/stacksAndQueues/Brackets.md)
+- [_**Fish**_](src/lessons/lesson7/stacksAndQueues/Fish.md)
