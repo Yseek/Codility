@@ -29,3 +29,4 @@
 - [_**Distinct**_](src/lessons/lesson6/sorting/Distinct.md)
 - [_**MaxProductOfThree**_](src/lessons/lesson6/sorting/MaxProductOfThree.md)
 - [_**Triangle**_](src/lessons/lesson6/sorting/Triangle.md)
+- [_**NumberOfDiscIntersections**_](src/lessons/lesson6/sorting/NumberOfDiscIntersections.md)
