@@ -35,3 +35,4 @@
 - [_**Brackets**_](src/lessons/lesson7/stacksAndQueues/Brackets.md)
 - [_**Fish**_](src/lessons/lesson7/stacksAndQueues/Fish.md)
 - [_**Nesting**_](src/lessons/lesson7/stacksAndQueues/Nesting.md)
+- [_**StoneWall**_](src/lessons/lesson7/stacksAndQueues/StoneWall.md)
