@@ -36,3 +36,6 @@
 - [_**Fish**_](src/lessons/lesson7/stacksAndQueues/Fish.md)
 - [_**Nesting**_](src/lessons/lesson7/stacksAndQueues/Nesting.md)
 - [_**StoneWall**_](src/lessons/lesson7/stacksAndQueues/StoneWall.md)
+
+### LESSON 8 - (Leader)
+- [_**Dominator**_](src/lessons/lesson8/leader/Dominator.md)
