@@ -39,3 +39,4 @@
 
 ### LESSON 8 - (Leader)
 - [_**Dominator**_](src/lessons/lesson8/leader/Dominator.md)
+- [_**EquiLeader**_](src/lessons/lesson8/leader/EquiLeader.md)
