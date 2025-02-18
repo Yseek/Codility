@@ -40,3 +40,6 @@
 ### LESSON 8 - (Leader)
 - [_**Dominator**_](src/lessons/lesson8/leader/Dominator.md)
 - [_**EquiLeader**_](src/lessons/lesson8/leader/EquiLeader.md)
+
+### LESSON 9 - (Maximum slice problem)
+- [_**MaxProfit**_](src/lessons/lesson9/maximumSliceProblem/MaxProfit.md)
