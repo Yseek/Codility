@@ -43,3 +43,4 @@
 
 ### LESSON 9 - (Maximum slice problem)
 - [_**MaxProfit**_](src/lessons/lesson9/maximumSliceProblem/MaxProfit.md)
+- [_**MaxSliceSum**_](src/lessons/lesson9/maximumSliceProblem/MaxSliceSum.md)
