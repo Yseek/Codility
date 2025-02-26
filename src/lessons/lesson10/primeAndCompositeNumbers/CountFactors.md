@@ -37,6 +37,7 @@ Write an efficient algorithm for the following assumptions:
 ```
 
 ![CountFactors_1](../../../../images/img_CountFactors_1.png)
+
 ![CountFactors_2](../../../../images/img_CountFactors_2.png)
 
 __브루트 포스(Brute Force, 완전 탐색)__ 이므로, 
