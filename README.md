@@ -45,3 +45,9 @@
 - [_**MaxProfit**_](src/lessons/lesson9/maximumSliceProblem/MaxProfit.md)
 - [_**MaxSliceSum**_](src/lessons/lesson9/maximumSliceProblem/MaxSliceSum.md)
 - [_**MaxDoubleSliceSum**_](src/lessons/lesson9/maximumSliceProblem/MaxDoubleSliceSum.md)
+
+### LESSON 10 - (Prime and composite numbers)
+- [_**CountFactors**_](src/lessons/lesson10/primeAndCompositeNumbers/CountFactors.md)
+- [_**MinPerimeterRectangle**_](src/lessons/lesson10/primeAndCompositeNumbers/MinPerimeterRectangle.md)
+- [_**Flags**_](src/lessons/lesson10/primeAndCompositeNumbers/Flags.md)
+- [_**Peaks**_](src/lessons/lesson10/primeAndCompositeNumbers/Peaks.md)
