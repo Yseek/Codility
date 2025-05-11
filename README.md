@@ -55,3 +55,7 @@
 ### LESSON 11 - (Sieve of Eratosthenes)
 - [_**CountNonDivisible**_](src/lessons/lesson11/sieveOfEratosthenes/CountNonDivisible.md)
 - [_**CountSemiprimes**_](src/lessons/lesson11/sieveOfEratosthenes/CountSemiprimes.md)
+
+### LESSON 12 - (Euclidean algorithm)
+- [_**CountNonDivisible**_](src/lessons/lesson12/euclideanAlgorithm/ChocolatesByNumbers.md)
+- [_**CountSemiprimes**_](src/lessons/lesson12/euclideanAlgorithm/CommonPrimeDivisors.md)
