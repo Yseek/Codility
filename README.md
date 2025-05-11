@@ -51,3 +51,7 @@
 - [_**MinPerimeterRectangle**_](src/lessons/lesson10/primeAndCompositeNumbers/MinPerimeterRectangle.md)
 - [_**Flags**_](src/lessons/lesson10/primeAndCompositeNumbers/Flags.md)
 - [_**Peaks**_](src/lessons/lesson10/primeAndCompositeNumbers/Peaks.md)
+
+### LESSON 11 - (Sieve of Eratosthenes)
+- [_**CountNonDivisible**_](src/lessons/lesson11/sieveOfEratosthenes/CountNonDivisible.md)
+- [_**CountSemiprimes**_](src/lessons/lesson11/sieveOfEratosthenes/CountSemiprimes.md)
