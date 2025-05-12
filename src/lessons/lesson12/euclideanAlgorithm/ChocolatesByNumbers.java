@@ -3,9 +3,14 @@ package lessons.lesson12.euclideanAlgorithm;
 public class ChocolatesByNumbers {
 
     public int solution(int N, int M) {
-        
+        return N / gcd(N, M);
+    }
 
-        return 0;
+    private int gcd(int a, int b) {
+        if (b == 0) {
+            return a;
+        }
+        return gcd(b, a % b);
     }
 
     public static void main(String[] args) {
