@@ -2,6 +2,9 @@
   "name": "Java 21 Dev Container",
   "dockerFile": "Dockerfile",
   "workspaceFolder": "/workspace",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind"
+  ],
   "customizations": {
     "jetbrains": {
       "backend": "IntelliJ"
