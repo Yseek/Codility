@@ -59,3 +59,7 @@
 ### LESSON 12 - (Euclidean algorithm)
 - [_**ChocolatesByNumbers**_](src/lessons/lesson12/euclideanAlgorithm/ChocolatesByNumbers.md)
 - [_**CommonPrimeDivisors**_](src/lessons/lesson12/euclideanAlgorithm/CommonPrimeDivisors.md)
+
+### LESSON 13 - (Fibonacci numbers)
+- [_**FibFrog**_](src/lessons/lesson13/fibonacciNumbers/FibFrog.md)
+- [_**Ladder**_](src/lessons/lesson13/fibonacciNumbers/Ladder.md)
