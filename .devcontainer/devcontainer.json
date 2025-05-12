@@ -5,11 +5,17 @@
   "mounts": [
     "source=${localWorkspaceFolder},target=/workspace,type=bind"
   ],
-  "extensions": [
-    "vscjava.vscode-java-pack",
-    "redhat.java",
-    "vscjava.vscode-java-debug",
-    "vscjava.vscode-java-test",
-    "vscjava.vscode-maven"
-  ]
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "redhat.java",
+        "vscjava.vscode-java-debug"
+      ],
+      "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "java.compile.nullAnalysis.mode": "automatic"
+      }
+    }
+  }
 }
